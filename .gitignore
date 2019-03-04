@@ -4,9 +4,8 @@ proto
 .settings
 .classpath
 .project
-dist
 .log
 log/
 hs_err_*.log
 logs/
-dist/
+
